@@ -1,0 +1,31 @@
+Enter time (hh:mm): Enter temperature (deg C): Enter wind speed (mph): Enter wind direction (deg): Enter rain (1/100th inch): 
+Enter time (hh:mm): Enter temperature (deg C): Enter wind speed (mph): Enter wind direction (deg): Enter rain (1/100th inch): 
+Enter time (hh:mm): Enter temperature (deg C): Enter wind speed (mph): Enter wind direction (deg): Enter rain (1/100th inch): 
+Enter time (hh:mm): Enter temperature (deg C): Enter wind speed (mph): Enter wind direction (deg): Enter rain (1/100th inch): 
+Enter time (hh:mm): Enter temperature (deg C): Enter wind speed (mph): Enter wind direction (deg): Enter rain (1/100th inch): 
+Enter time (hh:mm): Enter temperature (deg C): Enter wind speed (mph): Enter wind direction (deg): Enter rain (1/100th inch): 
+Enter time (hh:mm): Enter temperature (deg C): Enter wind speed (mph): Enter wind direction (deg): Enter rain (1/100th inch): 
+Enter time (hh:mm): Enter temperature (deg C): Enter wind speed (mph): Enter wind direction (deg): Enter rain (1/100th inch): 
+Enter time (hh:mm): Enter temperature (deg C): Enter wind speed (mph): Enter wind direction (deg): Enter rain (1/100th inch): 
+Enter time (hh:mm): Enter temperature (deg C): Enter wind speed (mph): Enter wind direction (deg): Enter rain (1/100th inch): 
+Enter time (hh:mm): Enter temperature (deg C): Enter wind speed (mph): Enter wind direction (deg): Enter rain (1/100th inch): 
+Enter time (hh:mm): Enter temperature (deg C): Enter wind speed (mph): Enter wind direction (deg): Enter rain (1/100th inch): 
+Enter time (hh:mm): Enter temperature (deg C): Enter wind speed (mph): Enter wind direction (deg): Enter rain (1/100th inch): 
+Enter time (hh:mm): Enter temperature (deg C): Enter wind speed (mph): Enter wind direction (deg): Enter rain (1/100th inch): 
+Enter time (hh:mm): Enter temperature (deg C): Enter wind speed (mph): Enter wind direction (deg): Enter rain (1/100th inch): 
+Enter time (hh:mm): Enter temperature (deg C): Enter wind speed (mph): Enter wind direction (deg): Enter rain (1/100th inch): 
+Enter time (hh:mm): Enter temperature (deg C): Enter wind speed (mph): Enter wind direction (deg): Enter rain (1/100th inch): 
+Enter time (hh:mm): Enter temperature (deg C): Enter wind speed (mph): Enter wind direction (deg): Enter rain (1/100th inch): 
+Enter time (hh:mm): Enter temperature (deg C): Enter wind speed (mph): Enter wind direction (deg): Enter rain (1/100th inch): 
+Enter time (hh:mm): Enter temperature (deg C): Enter wind speed (mph): Enter wind direction (deg): Enter rain (1/100th inch): 
+Enter time (hh:mm): Enter temperature (deg C): Enter wind speed (mph): Enter wind direction (deg): Enter rain (1/100th inch): 
+Enter time (hh:mm): Enter temperature (deg C): Enter wind speed (mph): Enter wind direction (deg): Enter rain (1/100th inch): 
+Enter time (hh:mm): Enter temperature (deg C): Enter wind speed (mph): Enter wind direction (deg): Enter rain (1/100th inch): 
+Enter time (hh:mm): Enter temperature (deg C): Enter wind speed (mph): Enter wind direction (deg): Enter rain (1/100th inch): Weather Data for McMurdo Station (-77.85, 166.667)
+-------------------------------------------------------------
+Average Temperature: 0 degree(s) C
+High Temperature was 0 degree(s) C at 00:00
+Low Temperature was 0 degree(s) C at 00:00
+Average Wind Speed: 4.00054e-34mph
+Average Wind Direction: -1.30692e-05 degree(s)
+Total Rain: 1.4013e-45"
